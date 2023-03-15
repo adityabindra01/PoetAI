@@ -1,27 +1,6 @@
 # PoetAI
 This is a Public Repository for PoetAI, the limerick generator!
 
-## Members:
-> Aditya Bindra\
-> Carnegie Mellon University\
-> Pittsburgh, PA 15213\
-> bindra@cmu.edu
-
-> Aditya Malani\
-> Carnegie Mellon University\
-> Pittsburgh, PA 15213\
-> amalani2@andrew.cmu.edu
-
-> Nirmalsing Patil\
-> Carnegie Mellon University\
-> Pittsburgh, PA 15213\
-> nirmalsp@andrew.cmu.edu
-
-> Bandish Parikh\
-> Carnegie Mellon University\
-> Pittsburgh, PA 15213\
-> bparikh@andrew.cmu.edu
-
 ## Folder Structure
 
 The folder structure at the time of publishing this repository is as follows:
